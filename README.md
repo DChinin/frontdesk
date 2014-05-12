@@ -86,6 +86,12 @@ Community driven list of useful things for front end developers. [How to contrib
 - [D.O.H.](http://dojotoolkit.org/reference-guide/1.8/util/doh.html)
 - [wru](https://github.com/WebReflection/wru.git)
 
+## Notify
+- [Gritter](https://github.com/jboesch/Gritter/)
+
+## Emoji
+- [jquery-emojiarea](https://github.com/diy/jquery-emojiarea/)
+
 ## HTML
 - [html5please](http://html5please.com)
 - [mobilehtml5](http://mobilehtml5.org)
