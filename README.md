@@ -76,6 +76,7 @@ Community driven list of useful things for front end developers. [How to contrib
 - [Dojo](http://dojotoolkit.org)
 - [Agility.js](http://agilityjs.com) - is an MVC library for client-side Javascript that lets you write maintainable code without compromising on development speed. It's write less, do more with maintainability.
 - [Closure Library](http://code.google.com/p/closure-library/) is a broad, well-tested, modular, and cross-browser JavaScript library.
+- [APE(Ajax Push Engine)](http://ape-project.org/) APE is a full-featured OpenSource solution designed for Ajax Push. It includes a comet server and a Javascript Framework. APE allows to implement any kind of real-time data streaming to a web browser, without having to install anything on the client-side.
 
 ## Testing frameworks
 - [Jasmine](http://pivotal.github.com/jasmine/)
