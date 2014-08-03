@@ -93,6 +93,9 @@ Community driven list of useful things for front end developers. [How to contrib
 ## Emoji
 - [jquery-emojiarea](https://github.com/diy/jquery-emojiarea/)
 
+## Wizard
+- [jQuery-steps](http://www.jquery-steps.com/)
+
 ## HTML
 - [html5please](http://html5please.com)
 - [mobilehtml5](http://mobilehtml5.org)
